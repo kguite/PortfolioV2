@@ -96,7 +96,7 @@
 			//Replace Text function		 
 			$(function () {
 				count = 0;
-				wordsArray = ["mother.", "web developer.", "leftie.", "educator.", "volunteer."];
+				wordsArray = ["software engineer.", "mother.", "web developer.", "leftie.", "educator.", "volunteer."];
 				setInterval(function () {
 					count++;
 					$(".my-noun").fadeOut(500, function () {
